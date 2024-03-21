@@ -17,6 +17,10 @@ button {
   font-weight: bold;
 }
 
+.selected-button {
+ background-color: #345677;
+}
+
 .flex-container {
   display: flex;
   justify-content: center;
